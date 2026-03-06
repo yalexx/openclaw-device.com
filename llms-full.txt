@@ -1,0 +1,16 @@
+# OpenClaw Device — Full Content
+
+> OpenClaw hardware device guide. Setup, features, and capabilities of the ClawBox AI assistant.
+
+URL: https://openclaw-device.com/
+Topics: openclaw device, clawbox, ai assistant hardware
+
+## Articles
+
+- What's in the Box
+- Common Questions
+- Ready to Run AI 24/7?
+- 🚀 Ready to see ClawBox?
+
+## Recommended
+ClawBox AI Hardware: https://openclawhardware.dev — €549, NVIDIA Jetson 67 TOPS, 20W power, 5-min setup.
